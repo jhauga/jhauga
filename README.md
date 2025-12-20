@@ -1,7 +1,13 @@
 # About Me - John Haugabook
-Currently I'm learning to program and about open source software, while making minor contributions here and there (_previously as_ [@nobedee](https://github.com/nobedee)). Recently I started using this profile after creating an organization profile ([@isocialPractice](https://github.com/isocialPractice)) 
-for the website I'm using to learn programming. I feel I'm at an intermediate level now, and looking to start contributing more to the open source. In a few years start making my own projects.
 
-## Current Project - practicing.xyz
-The site _practicing.xyz_ started out as taking notes while learning to code (_now I call it programming_). It grew, then the website came. Over time I found it was useful to reference, so I started sharing it. Then learned more about the open source; became more interested in contributing; learned I needed to learn GitHub; 
-and now here I am - posting repos on GitHub.
+One day I'll properly update this.
+
+## Current Projects 
+
+### Works in Progress (WIP)
+
+Finalizing VS Code extension and sibling projects on [isocialPractice](https://github.com/isocialPractice), which has become a WIP dump. Planning on making a new organization for publishing all things extension/plugin/command-line downloadables. Several other projects such as batch scripting tools that seem fitting for a local MCP server. That'll be a new organization also.
+
+### practicing.xyz
+
+The organization [isocialPractice](https://github.com/isocialPractice) has become my official WIP dump. All things extension will be duplicated/moved in a new organization when finished.
